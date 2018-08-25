@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/VanesaVelandia-SolarSystem.unity
+  isLoaded: 1
+  isActive: 1
